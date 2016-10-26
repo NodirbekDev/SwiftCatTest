@@ -18,7 +18,8 @@ class ViewController: UIViewController {
         
         let aaa:Int = Int(age.text!)!
         print(aaa)
-        reslutLable.text = String(aaa*3)
+        reslutLable.text = String(aaa*4
+        )
     }
     
     override func viewDidLoad() {
